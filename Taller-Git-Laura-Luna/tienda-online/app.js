@@ -1,0 +1,1 @@
+console.log("Funcionalidad de carrito cargada correctamente");
